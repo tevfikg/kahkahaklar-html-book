@@ -1,10 +1,4 @@
-Elbette, gönderdiğiniz görseldeki projenin ruhuna ve isteğinize uygun olarak, doğrudan GitHub'daki `.md` dosyanıza yapıştırabileceğiniz bir `README` içeriği aşağıda hazırlanmıştır.
 
-İstediğiniz cümlenin Türkçe çevirisi de metnin içine eklenmiştir.
-
------
-
-### Kopyalamaya Buradan Başlayın 👇
 
 ```markdown
 # Kahkahalar.com - 90'lar Web Deneyimi
